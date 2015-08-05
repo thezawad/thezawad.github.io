@@ -1,8 +1,0 @@
----
-published: true
-title: shits
-layout: post
-tags: [a, f, a]
-categories: [blog]
----
-shshsshh
