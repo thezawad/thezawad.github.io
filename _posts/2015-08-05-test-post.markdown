@@ -1,0 +1,8 @@
+---
+published: true
+title: Test Post
+layout: post
+tags: [a, f, a]
+categories: [shits]
+---
+testpost
