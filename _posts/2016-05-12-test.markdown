@@ -1,0 +1,9 @@
+---
+published: true
+title: test
+layout: post
+tags: [a, b]
+categories: [c, d]
+---
+#test
+*this is a test post
